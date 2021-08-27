@@ -1,0 +1,345 @@
+
+*{
+  font-family: Verdana;
+  background-color: lightgray;
+}
+
+---> Login 
+#card {
+  width: 540px;
+  height: 630px;
+  background-color: white;
+  border-radius: 8px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+#icon{
+  width: 86px;
+  height: 86px;
+  background-color: white;
+  top: 202px;
+  left: 664px;
+}
+
+#phrase {
+  width: 174px; 
+  height: 26px; 
+  font-size: 24px; 
+  color: black; 
+  background-color: white;"
+  top: 361px;
+  left: 626px;
+}
+
+#email{
+  width: 464px; 
+  height: 55px; 
+  font-size: 20px; 
+  background-color: #f2f2f2;
+  border-radius: 8px; 
+  border-color: #f2f2f2;"
+  top: 405px;
+  left: 470px;
+}
+
+#pass{
+  width: 464px; 
+  height: 55px; 
+  font-size: 20px; 
+  background-color: #f2f2f2;
+  border-radius: 8px; 
+  border-color: #f2f2f2;"
+  top: 480px;
+  left: 471px;
+}
+
+#send{
+  width: 464px; 
+  height: 65px; 
+  font-size: 24px; 
+  background-color: #ed1651; 
+  color: white; 
+  border-radius: 8px; 
+  border-color: #ed1651;
+  top: 575px;
+  left: 471px;
+}
+
+---> Create 
+#top{
+  width: 100%;
+  height: 90px;
+  background-color: white;
+  left: 0px;
+}
+
+#logo{
+  width: 132px;
+  height: 46px;
+  margin-left: 60px;
+  margin-top: 25px;
+  background-color: white;
+}
+
+#user{
+  width: 46px;
+  height: 46px;
+  margin-left: 1035px;
+  margin-top: 25px;
+  background-color: white;  
+}
+
+#back{
+  width: 890px;
+  height: 700px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  margin-left: 213px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+#text{
+  width: 250px;
+  height: 30px;
+  font-size: 24px;
+  top: 90px;
+  margin-left: 30px;
+  color: black;
+  background-color: white;
+}
+
+#close{
+  width: 40px;
+  height: 40px;
+  top: 50px;
+  margin-left: 800px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+#title{
+  width: 250px;
+  height: 30px;
+  font-size: 18px;
+  margin: 30px;
+  color: black;
+  background-color: white;
+}
+
+#problem{
+  width: 800px; 
+  height: 55px; 
+  font-size: 18px; 
+  background-color: #f2f2f2;
+  border-radius: 8px; 
+  border-color: #f2f2f2;"
+  margin-top: 405px;
+  margin-left: 30px;
+}
+
+#description{
+  width: 800px; 
+  height: 185px; 
+  font-size: 18px; 
+  background-color: #f2f2f2;
+  border-radius: 8px; 
+  border-color: #f2f2f2;"
+  margin-top: 405px;
+  margin-left: 30px;
+}
+
+#file{
+  width: 800px; 
+  height: 120px; 
+  font-size: 20px; 
+  background-color: #f2f2f2;
+  border-radius: 8px; 
+  border-color: #f2f2f2;"
+  margin-top: 405px;
+  margin-left: 30px;
+}
+
+#addt{
+  width: 800px; 
+  height: 65px; 
+  font-size: 24px; 
+  background-color: #00a115;
+  color: white; 
+  border-radius: 8px; 
+  border-color: #00a115;"
+  margin-top: 495px;
+  margin-left: 30px;
+}
+
+
+--> Tickets 
+
+#newt{
+  background-color: #ed1651;
+  color: white;
+  width: 200px;
+  height: 50px;
+  left: 970px;
+  top: 192px;
+  border-radius: 8px;
+}
+
+#ticket{
+  width: 250px;
+  height: 30px;
+  font-size: 24px;
+  top: 90px;
+  margin-left: 600px;
+  color: black;
+  background-color: #ed1651;
+  border-radius: 8px; 
+  border-color: #ed1651;
+}
+
+#Id{
+  width: 92px;
+  height: 22px;
+  font-size: 18px;
+  margin-left: 73px;
+  margin-top: 170px;
+  background-color: white;
+  color: black;
+}
+
+#name{
+  width: 92px;
+  height: 22px;
+  font-size: 18px;
+  margin-left: 143px;
+  margin-top: 170px;
+  background-color: white;
+  color: black;
+}
+
+#status{
+  width: 92px;
+  height: 22px;
+  font-size: 18px;
+  margin-left: 700px;
+  margin-top: 10px;
+  background-color: white;
+  color: black;
+}
+
+#head{
+  width: 98%;
+  height: 40px;
+  margin: 5px;
+  background-color: white
+}
+
+#requests{
+  width: 99%;
+  height: 480px;
+  margin: 5px;
+  background-color: white;
+}
+
+---> Edit
+#big{
+  width: 1500px;
+  height: 900px;
+  margin-top: 10px;
+}
+
+#back2{
+  width: 880px;
+  height: 800px;
+  margin-top: 40px;
+  margin-bottom: 100px;
+  margin-left: 60px;
+  background-color: white;
+  border-radius: 8px;
+} 
+
+#deletes{
+  width: 155px;
+  height: 40px;
+  top: 50px;
+  margin-left: 400px;
+  margin-top: 50px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+#arrow{
+  width: 40px;
+  height: 40px;
+  
+  margin-top: 0px;
+  margin-left: 800px;
+  background-color: white;
+  border-radius: 8px;
+}
+
+#side{
+  width: 140px;
+  height: 800px;
+  margin-top: 40px;
+  margin-left: 1200px;
+  background-color:white;
+  border-radius: 8px;
+}
+
+
+---> Delete 
+#warning{
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  margin-top: 300px;
+  margin-left: 420px;
+  border-radius: 8px;  
+  
+}
+
+#attention{
+  width: 95px;
+  height: 90px;
+  border-radius: 8px;
+  margin-top: 200px;
+  background-color: white;
+}
+
+#sure{
+  color: black;
+  background-color: white;
+  font-size: 24px;
+}
+
+#note{
+  color: gray;
+  background-color: white;
+  font-size: 18px;
+}
+
+#no{
+  background-color: lightgray;
+  color: black;
+  border-color: lightgray;
+  border-radius: 8px;
+  width: 200px;
+  height: 60px;
+  font-size: 18px;
+  margin-left: 475px;
+}
+
+#yes{
+  background-color: #ff4444;
+  color: white;
+  border-color: #ff4444;
+  border-radius: 8px;
+  width: 200px;
+  height: 60px;
+  font-size: 18px;
+}
+
+
